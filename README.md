@@ -1,5 +1,3 @@
-:::writing{variant=“standard” id=“84219”}
-
 Ribbon Courses Lab Notes & Hands-On Practice
 
 Overview
@@ -75,8 +73,3 @@ Future Improvements
 	•	Include sample configs and reusable templates
 	•	Expand troubleshooting scenarios with real-world cases
 	•	Integrate automation examples (Terraform, scripting)
-
-⸻
-
-🚀 Continuously updated as I progress through additional labs and real-world scenarios.
-:::
